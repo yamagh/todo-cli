@@ -9,7 +9,7 @@ Designed to help AI agents maintain awareness of their "work units" (workspaces)
 ## Installation
 
 ```bash
-npm install -g todo-cli
+npm install -g @yamagh/todo-cli
 ```
 
 *(Alternatively, run `npm link` within this repository to register it as a global command)*

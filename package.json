@@ -1,10 +1,10 @@
 {
-  "name": "todo-cli",
+  "name": "@yamagh/todo-cli",
   "version": "1.0.0",
   "description": "Task management CLI for AI agents",
   "main": "bin/todo.js",
   "bin": {
-    "todo": "./bin/todo.js"
+    "todo": "bin/todo.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

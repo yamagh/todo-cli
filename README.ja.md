@@ -9,7 +9,7 @@ AIエージェントが「作業のまとまり（ワークスペース）」を
 ## インストール
 
 ```bash
-npm install -g todo-cli
+npm install -g @yamagh/todo-cli
 ```
 
 *(または、本リポジトリ内で `npm link` を実行してグローバルコマンドとして登録してください)*
