@@ -1,6 +1,6 @@
 {
   "name": "@yamagh/todo-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Task management CLI for AI agents",
   "main": "bin/todo.js",
   "bin": {
